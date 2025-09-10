@@ -1,0 +1,6549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SMF_Points.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_4bfabd00_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle01">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfae230_0_4.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffa73682</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle030">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfac250_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle031">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfaccf0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle033">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfaf000_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle036">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfaecd0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle049">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfaf550_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle050">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfae9a0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle051">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_4bfaf440_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.583333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>SMF_Points</name>
+		<open>1</open>
+		<snippet></snippet>
+		<Placemark id="ID_00000">
+			<name>Info Center</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Info Center</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Info Center</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Info Center</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Info Center</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Info Center</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>Info Center</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{B8BDD33A-C79D-4F24-A385-C191E9CBD9E7}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-117.2730419288697,49.09955443304933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Grove South</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>27: Grove South </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>27: Grove South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Grove South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>27: Grove South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{A12ACDF6-485E-4A0A-906E-99D0F8C09608}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2753696039081,49.09722138662615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Grundle Road</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>29: Grundle Road </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>29: Grundle Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Grundle Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>29: Grundle Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{811497C0-5C12-4405-9321-C5899E998831}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2751691116147,49.09561145816759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Perry Creek Rd.</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>3: Perry Creek Rd.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>3: Perry Creek Rd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Perry Creek Rd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>3: Perry Creek Rd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{7AAED0CB-538E-4C3B-A017-39A2DE554E1A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2659811644484,49.10595428797065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Living Room Road</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>11: Living Room Road</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>11: Living Room Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Living Room Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>11: Living Room Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{A7DA1BEE-C970-45C7-8F62-20FC5111F9CB}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2704388671962,49.09985051112735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Living Room Main</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15: Living Room Main </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>15: Living Room Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Living Room Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>15: Living Room Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{787185F6-1CE1-4395-A888-CA0A1CE36CB6}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.271396043691,49.0995244281889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Metta Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22: Metta Gate </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>22: Metta Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Metta Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>22: Metta Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{6D0D3BA0-34F4-40F6-A17B-2B00C5149161}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2750916552777,49.09850123594757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Muscle Beach</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>31: Muscle Beach </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>31: Muscle Beach</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Muscle Beach</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>31: Muscle Beach</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{11B64ACD-C85B-43DD-BF6F-14B38BDB1FE5}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2747899471064,49.09524736661653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Pagoda Side</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>20: Pagoda Side </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>20: Pagoda Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Pagoda Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>20: Pagoda Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{B10E3AFE-BCAE-4393-AB82-194CD57EFF4B}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.273355104934,49.09847736400989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Pagoda</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16: Pagoda </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>16: Pagoda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Pagoda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>16: Pagoda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{EF8A6BD5-A3A6-4EB3-92A6-49A3DDEBC080}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2732602679928,49.09889800391657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Reception</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2: Reception </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>2: Reception</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Reception</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>2: Reception</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{FF4B9762-2D2F-4911-BD1E-134905669643}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2667723466517,49.10693897660639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>River Road</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>23: River Road</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>23: River Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>River Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>23: River Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{73286F5E-F482-4898-A861-FD5D2E3ADEF4}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2720279923237,49.09821359615569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Mill Corner / Crew Camp</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4: Mill Corner / Crew Camp </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>4: Mill Corner / Crew Camp</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Mill Corner / Crew Camp</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>4: Mill Corner / Crew Camp</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{750F50A4-3A4E-4D70-9768-C3F8FAE877F8}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2660121733936,49.10418059449037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Grove Main</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>24: Grove Main </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>24: Grove Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Grove Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>24: Grove Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{697FE7B2-3A60-4B62-BDB9-2660AB3AB234}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2743426453837,49.0980454838181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Village Main</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>25: Village Main </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>25: Village Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Village Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>25: Village Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{B48FBC3C-F87C-47FF-8964-02708F5F2C58}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.273177076811,49.09795233199232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Village Side</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>26: Village Side </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>26: Village Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Village Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>26: Village Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{52A43BE9-A066-4ED2-9DB5-48888AEF4FC1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2735648238236,49.09751571463051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Watertower</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>5: Watertower </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>5: Watertower</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Watertower</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>5: Watertower</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C144134B-D183-4D2A-B08E-16CCD14EC876}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2726259037903,49.10396529308377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Amp Main</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>10: Amp Main </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>10: Amp Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Amp Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>10: Amp Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{1DBA1CA0-D92E-4704-A3CE-D54925784C90}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.272730802761,49.09983057113818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Amp Side</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>12: Amp Side </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>12: Amp Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Amp Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>12: Amp Side</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{CBA25374-A104-4696-A4A4-350CFED85C32}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2721287877902,49.09969309839338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Artist Relations</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9: Artist Relations </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>9: Artist Relations</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Artist Relations</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>9: Artist Relations</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{85C0CD87-0D9A-49AB-A72F-742B06193FD3}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.271322037783,49.10102684573489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Fractal Merch</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>18: Fractal Merch </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>18: Fractal Merch</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Fractal Merch</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>18: Fractal Merch</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{5D21EC36-CC68-4F76-B24A-C19FC4CE0354}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2722965921869,49.09886563712823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Fractal Road</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19: Fractal Road </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>19: Fractal Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Fractal Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>19: Fractal Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{1917C348-B622-42D8-B723-74D434EF608D}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2730469998595,49.09869600008614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Fractal Estate Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17: Fractal Estate Gate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>17: Fractal Estate Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Fractal Estate Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>17: Fractal Estate Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{7E8F7530-AAD1-4D9F-9633-CB3AD15514D2}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2729129424731,49.0988623339254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Shambhalodging: Mid</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>7: Shambhalodging: Mid</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>7: Shambhalodging: Mid</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Shambhalodging: Mid</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>7: Shambhalodging: Mid</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{E4989FDB-86CC-466F-A1A2-0E82D65BAE5F}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2764340033152,49.10138353187782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Shambhalodging Main</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6: Shambhalodging Main </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>6: Shambhalodging Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Shambhalodging Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>6: Shambhalodging Main</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{338DBD72-9593-4412-9ED7-2C36E647F5BA}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2762570783234,49.10319264524225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Shambhalodging South</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14: Shambhalodging South </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>14: Shambhalodging South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Shambhalodging South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>14: Shambhalodging South</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{EED71259-97F2-43AA-89B8-F3C18AD489F6}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2768212355931,49.09957451372173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Riverside</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1: Riverside</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>1: Riverside</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Riverside</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>1: Riverside</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C16465EF-92DE-4DC0-ABB2-8AD925123C94}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2646361906353,49.10777351831788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Belle-Luxe</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>21: Belle-Luxe</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>21: Belle-Luxe</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Belle-Luxe</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>21: Belle-Luxe</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{6ACDE9ED-5D52-4B01-B967-AC4BB49D51D9}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2769927742865,49.09867958518014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Gnome Village</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>28: Gnome Village</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>28: Gnome Village</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Gnome Village</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>28: Gnome Village</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{7C072458-ED6F-45F9-9E41-FAA12D07E782}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2761700001313,49.09634400010714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Y intersection</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8: Y intersection</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Medical Locating Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>SOS Rally Point</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>8: Y intersection</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Y intersection</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>8: Y intersection</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{F495846A-AC09-43DE-A1AD-F1E0EE63C84A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>-117.2734950004715,49.1013199995794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vector Bridge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Vector Bridge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{3BE50FE8-4732-47F8-8703-BAE808F7DB08}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2609648793754,49.10941274775034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Food Market</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Food Market</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Food Market</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Food Market</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{55801FFF-61EB-425C-870A-15C179BD7EC4}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2730640786297,49.0992288716395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Artisan Market</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Artisan Market</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Artisan Market</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Artisan Market</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{8575B29B-B720-4384-B423-A6902172C95A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2728987221421,49.1002171385903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Sanctuary</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sanctuary</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Sanctuary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Sanctuary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Sanctuary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{9EC16E65-4476-4F7A-8B62-FBF42F1D2DB1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle033</styleUrl>
+			<Point>
+				<coordinates>-117.273508615338,49.09966931290139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>ANKORS</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ANKORS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ANKORS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>ANKORS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C17107F1-A36F-4FF8-AB19-7FF540F753E0}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2727278149643,49.1000382402448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Crew Kitchen</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Crew Kitchen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Crew Kitchen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Crew Kitchen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{A6E4F4FF-5B64-43F6-818F-162ED517B6F1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2742231146537,49.09945795148379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Helipad  49.112015   117.269409</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Helipad  49.112015   117.269409</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Helipad</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>ICS</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Helipad  49.112015   117.269409</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Helipad  49.112015   117.269409</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C9CFF944-5F92-4249-A245-88819D30D20E}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle036</styleUrl>
+			<Point>
+				<coordinates>-117.2694183567789,49.11201429917467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Cloud gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Cloud gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{5B54AD9B-375B-46C2-9EC1-67F2AAC93C45}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2732072916456,49.10045546442753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bridge Gate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Bridge Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{60EC321A-64D7-4E38-9B2D-19B761336197}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2579285889864,49.10756685837037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Highway Gate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Highway Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{6F8FC02E-B9BA-4D7A-9EAD-1C697AD2F1AA}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2687043991473,49.10927222014705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ticket Gate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Ticket Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{E11FF55C-63E5-4F6F-B307-995674656C5B}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2669075287289,49.10720942041155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Loading dock - vendor access</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Loading dock - vendor access</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Gate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C607CCC6-A325-4015-AB86-A42CCE689BE3}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>-117.2737420236999,49.09958619945655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Village Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Village Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Village Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Village Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{AA321F4A-C9FB-45A0-95F9-CC5EBD137E20}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2734210888866,49.09751567228064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Pagoda Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pagoda Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Pagoda Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Pagoda Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{823CA271-5852-469F-A820-500424C90B25}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2739688087833,49.09859683710244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Living room Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Living room Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Living room Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Living room Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{E183B78C-EE3F-4F56-B72A-794F4B66D632}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2707375669096,49.09985718974559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Fractal Forest Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fractal Forest Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Fractal Forest Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Fractal Forest Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{A20C8450-C78B-420B-8F04-4B6C0204CA05}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2726654251712,49.09859705708188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Amp Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Amp Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Amp Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Amp Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{7EC39863-6A9C-418B-9FD0-3FA89E7374AA}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2721584286013,49.0998832731085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Grove Stage</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Grove Stage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Grove Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Grove Stage</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{C9EB6F9E-FF87-4EB9-BFF4-8B91A0E697CC}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2741140627714,49.0976278170543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Cedar Lounge</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cedar Lounge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Facility</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Cedar Lounge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Cedar Lounge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{5B013338-24C7-48B6-820F-D3A0EA0005F9}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle031</styleUrl>
+			<Point>
+				<coordinates>-117.2751434296791,49.09711217604184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Water</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Power and Water</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Water</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Water</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Power and Water</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Water</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>Fed from pnl 2i</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{B05F789D-3D51-45D8-A415-BED43974B961}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle049</styleUrl>
+			<Point>
+				<coordinates>-117.2764720002551,49.10124199991358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Lodging</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lodging Building</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Building</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Lodging Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Lodging</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{94EA98D2-B2F6-4F1E-BF6A-C138604A9483}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle050</styleUrl>
+			<Point>
+				<coordinates>-117.2764420001178,49.10315899972757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Lodger Lounge</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Type</td>
+
+<td>Lounge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SubType</td>
+
+<td>Lounge</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NUMBER</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Label</td>
+
+<td>Lodger Lounge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ShowPublic</td>
+
+<td>No</td>
+
+</tr>
+
+<tr>
+
+<td>Comment</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateTimeCollected</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>GlobalID</td>
+
+<td>{686AD068-D920-4D43-A8F6-C06C9754E2E7}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#IconStyle051</styleUrl>
+			<Point>
+				<coordinates>-117.2769209997937,49.10071799994572,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
